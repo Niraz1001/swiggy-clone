@@ -1,8 +1,12 @@
+
 import React from 'react'
+import Home from './(page)/home/page'
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <div>
+      <Home/>
+    </div>
   )
 }
 

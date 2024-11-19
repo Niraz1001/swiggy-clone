@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.black-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+} 
+
+.image-overlay{
+    background-image: linear-gradient( rgba(157, 160, 165, 0.199) 30%, rgba(1,1,1,0.7) 80.21%);
+    
+}
